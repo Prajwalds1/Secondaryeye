@@ -60,7 +60,7 @@
 # import os
 
 # KNOWN_FOLDER = "known_faces"
-# SERVER_URL = "https://esp32-upload-server.onrender.com"
+# SERVER_URL = "https://esp32-upload-server-1ffl.onrender.com"
 
 # def get_latest_image():
 #     r = requests.get(f"{SERVER_URL}/latest")
